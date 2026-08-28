@@ -521,21 +521,343 @@ Também foi solicitado ao modelo que diferenciasse:
 - resultados efetivamente medidos.
 
 ---
-
 # 🍺 Estudo de Caso — HEINEKEN e Inteligência Artificial
 
-Uma das etapas do projeto consiste em analisar exemplos de utilização de Inteligência Artificial no contexto empresarial da HEINEKEN.
+A HEINEKEN foi utilizada como principal estudo de caso do projeto por apresentar aplicações concretas de Inteligência Artificial integradas ao processo comercial, trade marketing, eBusiness e gestão de portfólio.
 
-A análise procura compreender como tecnologias de IA podem apoiar:
+A estratégia digital da companhia está inserida na ambição de se tornar uma das cervejeiras mais conectadas do mundo, combinando escala global, dados e proximidade com clientes.
+
+## 🌐 Contexto da Transformação Digital
+
+A transformação comercial da HEINEKEN envolve iniciativas estruturais como:
+
+- Digital Backbone;
+- eBusiness;
+- plataforma eazle;
+- Data Foundations;
+- modelos proprietários de analytics;
+- soluções de Inteligência Artificial aplicadas a vendas.
+
+A análise das fontes mostrou que a empresa procura substituir ambientes fragmentados por uma infraestrutura digital mais integrada, capaz de alimentar modelos analíticos e apoiar decisões comerciais.
+
+---
+
+## 🤖 AIDDA — AI Data-Driven Advisor
+
+O **AIDDA** é um assessor comercial baseado em Inteligência Artificial utilizado para apoiar representantes de vendas.
+
+Sua função principal é transformar dados comerciais em recomendações práticas para o vendedor.
+
+Entre as aplicações identificadas estão:
+
+- análise do histórico de compras;
+- identificação de oportunidades;
+- recomendação de produtos;
+- indicação de ações promocionais;
+- apoio à priorização comercial;
+- personalização da visita ao cliente.
+
+O conceito central utilizado pela solução é o de:
+
+> **Next Best Action — Próxima Melhor Ação**
+
+Em vez de depender exclusivamente da experiência ou intuição do vendedor, a ferramenta utiliza dados para sugerir qual ação comercial possui maior potencial para determinado cliente.
+
+A decisão final, entretanto, continua sendo do profissional.
+
+---
+
+## 🧠 Next Best Action
+
+O conceito de *Next Best Action* consiste em utilizar dados e modelos preditivos para recomendar a próxima ação comercial mais adequada para um cliente específico.
+
+Na prática, isso pode significar:
+
+- recomendar uma marca;
+- sugerir um produto ausente no mix;
+- identificar oportunidade de aumento de portfólio;
+- apoiar uma promoção;
+- direcionar uma abordagem comercial.
+
+O objetivo não é substituir o relacionamento do vendedor, mas fornecer informações que aumentem a qualidade da decisão tomada durante a visita ou contato.
+
+---
+
+## 📊 Principais Soluções de IA Analisadas
+
+### AIDDA
+
+Ferramenta voltada ao apoio do representante comercial por meio de recomendações baseadas em dados.
+
+### Promo Advisor
+
+Solução voltada à análise e otimização de promoções.
+
+O sistema trabalha com componentes relacionados a:
+
+- análise de campanhas anteriores;
+- simulação de cenários;
+- otimização de calendário promocional;
+- proteção de margem.
+
+### Allocation AI
+
+Ferramenta analítica utilizada para apoiar decisões sobre alocação de investimentos e recursos promocionais.
+
+Seu objetivo é avaliar diferentes cenários e buscar uma distribuição mais eficiente dos investimentos.
+
+### Product Recommender
+
+Motor de recomendação que analisa dados históricos e características dos clientes para apoiar sugestões de produtos e expansão de portfólio.
+
+---
+
+## 💼 Impacto no Processo Comercial
+
+As soluções analisadas atuam em diferentes dimensões.
+
+### Vendas
+
+- recomendação de produtos;
+- identificação de oportunidades;
+- priorização de ações;
+- apoio ao cross-sell;
+- personalização da atuação comercial.
+
+### Trade Marketing
+
+- simulação de promoções;
+- otimização de investimentos;
+- avaliação de cenários;
+- proteção de margem.
+
+### Portfólio
+
+- recomendação de mix;
+- identificação de oportunidades de expansão;
+- aumento de disponibilidade de produtos.
+
+### Gestão
+
+- maior utilização de dados;
+- apoio à tomada de decisão;
+- redução de atividades manuais;
+- maior integração entre informações comerciais.
+
+---
+
+## 📈 Resultados Encontrados nas Fontes
+
+As fontes oficiais apresentaram resultados quantitativos relacionados às soluções digitais e analíticas da empresa.
+
+Entre os números identificados pelo NotebookLM estão:
+
+- **2% a 4% de aumento de lucro bruto promocional** em determinados mercados com o Promo Advisor;
+- **36% de melhoria na eficiência de ROI de marketing** em aplicações do Allocation AI;
+- mais de **€5 bilhões em GMV** transacionados no ecossistema digital analisado;
+- mais de **€150 milhões em economias operacionais** associadas ao avanço de iniciativas digitais e analytics.
+
+Esses indicadores devem ser interpretados com cautela.
+
+Nem todo resultado financeiro da transformação digital pode ser atribuído exclusivamente à Inteligência Artificial, pois fatores como mercado, capacidade produtiva, logística, preço, portfólio e estratégia comercial também influenciam os resultados.
+
+> **Resultado associado à transformação digital não significa, automaticamente, resultado causado exclusivamente pela IA.**
+
+---
+
+## 👨‍💼 O Papel do Vendedor
+
+Um dos principais aprendizados do caso HEINEKEN foi que a tecnologia atua como ferramenta de apoio à força de vendas.
+
+A IA pode assumir ou reduzir atividades relacionadas a:
 
 - análise de dados;
-- tomada de decisão;
-- recomendação de ações;
-- produtividade comercial;
-- personalização;
-- atuação do profissional de vendas.
+- cálculos;
+- identificação de oportunidades;
+- preparação;
+- tarefas administrativas.
 
-> Esta seção será complementada com os resultados produzidos pelo NotebookLM a partir das fontes utilizadas.
+Isso permite que o vendedor concentre maior atenção em atividades como:
+
+- relacionamento;
+- negociação;
+- construção de confiança;
+- entendimento do contexto local;
+- tomada de decisão;
+- desenvolvimento do cliente.
+
+O modelo pode ser resumido como:
+
+> **IA analisa e recomenda. O profissional interpreta, decide e se relaciona.**
+
+---
+
+## 🏪 Benefícios Potenciais para o Cliente
+
+Para os clientes B2B, as aplicações de IA podem contribuir para:
+
+- recomendações mais relevantes;
+- melhor disponibilidade de produtos;
+- maior personalização;
+- menor atrito no processo de compra;
+- ofertas mais alinhadas ao perfil do estabelecimento;
+- atendimento comercial mais eficiente.
+
+---
+
+## 🏢 Benefícios para a Empresa
+
+Para a HEINEKEN, as aplicações analisadas podem contribuir para:
+
+- maior eficiência comercial;
+- proteção de margem;
+- melhor alocação de investimentos;
+- expansão de portfólio;
+- redução de atividades manuais;
+- maior utilização estratégica dos dados;
+- padronização de processos em escala.
+
+---
+
+## ⚠️ Riscos Identificados
+
+O estudo também demonstrou que a adoção de IA em escala aumenta a necessidade de controle e governança.
+
+Entre os riscos identificados estão:
+
+- segurança cibernética;
+- indisponibilidade de sistemas;
+- privacidade de dados;
+- qualidade das informações;
+- dependência excessiva de recomendações algorítmicas;
+- viés de automação;
+- falhas de integração;
+- perda de contexto local.
+
+Uma recomendação produzida por IA não deve ser tratada automaticamente como correta.
+
+---
+
+## 👤 Human-in-the-Loop
+
+O caso analisado reforça a importância do conceito de **human-in-the-loop**, no qual a Inteligência Artificial participa do processo, mas o profissional humano continua responsável pela validação e decisão.
+
+Isso é especialmente importante em situações envolvendo:
+
+- preços;
+- descontos;
+- negociação;
+- contratos;
+- relacionamento estratégico;
+- decisões com impacto financeiro.
+
+---
+
+## 🔎 Validação de uma Inconsistência Encontrada
+
+Durante as análises do NotebookLM surgiu uma diferença entre as fontes sobre o número de mercados em que o AIDDA estava implementado.
+
+Uma fonte indicava **sete mercados**, enquanto o **HEINEKEN Annual Report 2025**, publicado posteriormente, informava que a solução estava ativa em **oito companhias operacionais importantes**.
+
+A análise sugere que a diferença pode ser explicada pelo processo de expansão da solução ao longo do tempo.
+
+Em vez de escolher um dos números arbitrariamente, o projeto preservou o contexto temporal das fontes.
+
+Esse episódio se tornou um exemplo importante de validação:
+
+> **Informações diferentes nem sempre significam que uma das fontes está errada. Elas podem representar momentos diferentes de um processo de expansão.**
+
+---
+
+## 🔄 Comparação com as Demais Fontes
+
+O caso HEINEKEN apresenta forte alinhamento com recomendações identificadas em outras fontes.
+
+### McKinsey
+
+Reforça a importância de:
+
+- gestão da mudança;
+- capacitação;
+- construção de soluções sobre dados próprios;
+- integração entre tecnologia e processo comercial.
+
+### Salesforce, HubSpot e IBM
+
+Reforçam que IA comercial depende de:
+
+- CRM estruturado;
+- dados integrados;
+- qualidade de informação;
+- automação de tarefas.
+
+### NIST
+
+Reforça a necessidade de:
+
+- supervisão humana;
+- governança;
+- segurança;
+- monitoramento de riscos;
+- mecanismos de contingência.
+
+### NBER
+
+Apresenta evidências de que a IA pode contribuir para acelerar aprendizado e produtividade, especialmente entre profissionais menos experientes.
+
+---
+
+## 🧩 Cinco Principais Aprendizados do Caso HEINEKEN
+
+1. **A infraestrutura de dados vem antes da IA.**
+2. **Soluções construídas sobre dados próprios podem gerar diferenciação competitiva.**
+3. **IA deve apoiar o relacionamento, e não substituí-lo.**
+4. **Simulação e análise de dados podem proteger margem e melhorar decisões comerciais.**
+5. **Adoção tecnológica exige treinamento, cultura e gestão da mudança.**
+
+---
+
+## ✅ Três Fatores que Parecem Contribuir para o Sucesso
+
+### 1. Infraestrutura digital integrada
+
+A existência de plataformas e dados integrados facilita a expansão de novas aplicações de IA.
+
+### 2. Foco na experiência do usuário
+
+Ferramentas precisam fazer sentido para quem realmente as utiliza no campo.
+
+### 3. Governança
+
+Modelos de IA precisam operar com regras claras, responsabilidades definidas e possibilidade de intervenção humana.
+
+---
+
+## ⚠️ Três Riscos que Devem Continuar Sendo Monitorados
+
+### 1. Segurança e indisponibilidade de sistemas
+
+Quanto maior a dependência digital, maior o impacto potencial de interrupções.
+
+### 2. Dependência de canais digitais
+
+Mudanças no comportamento de clientes e surgimento de novos intermediários podem alterar a dinâmica comercial.
+
+### 3. Viés de automação
+
+Vendedores podem confiar excessivamente nas recomendações da IA e deixar de considerar informações contextuais importantes.
+
+---
+
+## 💡 Síntese do Estudo de Caso
+
+O principal aprendizado do caso HEINEKEN não é simplesmente que a empresa utiliza Inteligência Artificial.
+
+O aspecto mais relevante é **como a tecnologia foi integrada a dados, processos, pessoas e decisões comerciais**.
+
+O caso demonstra que IA aplicada a vendas gera maior valor quando:
+
+> **dados estruturados + tecnologia + processo + capacitação + julgamento humano trabalham em conjunto.**
 
 ---
 
