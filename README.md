@@ -515,22 +515,212 @@ A análise procura compreender como tecnologias de IA podem apoiar:
 
 ---
 
-# 📈 Aplicações de IA no Processo Comercial
+# 📈 IA ao Longo do Processo Comercial
 
-A análise foi organizada considerando diferentes etapas da jornada comercial:
+A análise das 12 fontes mostrou que a Inteligência Artificial pode apoiar praticamente toda a jornada comercial. Entretanto, sua função muda conforme a etapa: em alguns momentos atua principalmente na análise de dados; em outros, na geração de conteúdo, automação, previsão ou recomendação de ações.
 
-1. planejamento;
-2. prospecção;
-3. qualificação;
-4. preparação da abordagem;
-5. contato;
-6. relacionamento;
-7. negociação;
-8. fechamento;
-9. pós-venda;
-10. previsão e gestão.
+Um ponto recorrente nas fontes é que **automação não significa eliminação da participação humana**. Quanto maior a complexidade, o impacto financeiro ou a necessidade de relacionamento, maior tende a ser a importância da validação profissional.
 
-> Os principais resultados encontrados serão incluídos nesta seção após a consolidação das respostas do NotebookLM.
+## 1. Planejamento Comercial
+
+A IA pode apoiar o planejamento ao analisar grandes volumes de dados, simular cenários e identificar oportunidades que seriam difíceis de detectar manualmente.
+
+**Aplicações identificadas:**
+
+- simulação de cenários comerciais;
+- otimização de investimentos promocionais;
+- identificação de oportunidades de mercado;
+- análise de territórios e segmentos;
+- previsão de demanda.
+
+**Exemplo estudado:** a HEINEKEN utiliza soluções analíticas como **Allocation AI** e **Promo Advisor** para apoiar decisões relacionadas a investimentos e promoções.
+
+**Papel humano:** interpretar restrições de mercado, definir objetivos estratégicos e validar se as recomendações produzidas pela IA fazem sentido no contexto real.
+
+---
+
+## 2. Prospecção
+
+A prospecção é uma das atividades comerciais com grande potencial de automação.
+
+A IA pode analisar sinais de intenção, informações públicas, comportamento digital e dados de CRM para identificar contas com maior probabilidade de interesse.
+
+**Aplicações identificadas:**
+
+- identificação de potenciais clientes;
+- pesquisa automática de contas;
+- enriquecimento de leads;
+- detecção de sinais de intenção;
+- personalização de abordagens;
+- priorização de oportunidades.
+
+O principal ganho não está apenas em realizar mais contatos, mas em permitir que vendedores concentrem tempo em **oportunidades com maior potencial**.
+
+**Papel humano:** definir o perfil de cliente ideal, estabelecer critérios de prospecção e conduzir interações comerciais de maior complexidade.
+
+---
+
+## 3. Qualificação de Leads
+
+A IA também pode apoiar a classificação e priorização de oportunidades.
+
+Algoritmos de *lead scoring* podem analisar dados históricos, comportamento e características dos clientes para identificar quais leads merecem maior atenção.
+
+**Benefícios potenciais:**
+
+- redução do esforço dedicado a contatos pouco qualificados;
+- melhor priorização do pipeline;
+- enriquecimento automático do CRM;
+- maior agilidade na transferência entre marketing e vendas.
+
+**Risco identificado:** modelos baseados em dados incorretos ou incompletos podem classificar oportunidades de maneira inadequada.
+
+> **IA de qualidade depende de dados de qualidade.**
+
+---
+
+## 4. Preparação da Abordagem
+
+Antes de uma reunião ou contato comercial, vendedores normalmente precisam pesquisar informações sobre empresas, mercados e tomadores de decisão.
+
+Ferramentas de IA podem acelerar esse processo.
+
+**Aplicações identificadas:**
+
+- resumo de informações sobre clientes;
+- análise de notícias;
+- análise de documentos;
+- construção de *battlecards*;
+- geração de possíveis argumentos;
+- preparação de roteiros;
+- simulação de objeções.
+
+Ferramentas como **Account IQ** e **Lead IQ**, apresentadas pelo LinkedIn, exemplificam esse tipo de utilização.
+
+**Risco identificado:** modelos generativos podem produzir informações convincentes, porém incorretas.
+
+Por isso, dados utilizados em reuniões importantes devem ser conferidos pelo profissional.
+
+---
+
+## 5. Contato e Relacionamento
+
+A IA generativa permite personalizar comunicações em escala.
+
+Em vez de utilizar mensagens idênticas para diferentes clientes, modelos podem considerar informações sobre a conta, histórico de relacionamento e contexto comercial.
+
+**Aplicações identificadas:**
+
+- apoio à redação de mensagens;
+- personalização de contatos;
+- recomendações de próxima melhor ação;
+- identificação de oportunidades no histórico do cliente;
+- atendimento digital.
+
+Um dos principais exemplos analisados foi o **AIDDA — AI Data-Driven Advisor**, utilizado pela HEINEKEN para apoiar representantes comerciais com recomendações de *next best action*.
+
+**Papel humano:** construir confiança, interpretar aspectos subjetivos da relação e adaptar a recomendação tecnológica ao contexto real do cliente.
+
+---
+
+## 6. Negociação
+
+Em negociações, modelos analíticos podem apoiar decisões envolvendo preço, desconto, margem e histórico de negócios.
+
+**Aplicações identificadas:**
+
+- análise de preços;
+- recomendação de faixas de desconto;
+- *deal scoring*;
+- análise de propostas anteriores;
+- apoio à proteção de margem.
+
+Entretanto, existe o risco conhecido como **automation bias**, quando o profissional aceita uma recomendação do sistema simplesmente porque ela foi produzida por um algoritmo.
+
+A recomendação da IA deve servir como **apoio à decisão**, e não como substituição automática do julgamento comercial.
+
+---
+
+## 7. Fechamento
+
+A Inteligência Artificial Generativa também pode reduzir tarefas administrativas relacionadas à conclusão de negócios.
+
+Entre as aplicações identificadas estão:
+
+- geração de propostas;
+- apoio à elaboração de respostas a RFPs;
+- análise de documentos;
+- recuperação de informações de propostas anteriores;
+- organização de dados para aprovação de oportunidades.
+
+A automação pode reduzir o tempo necessário para produzir documentos comerciais complexos.
+
+Por outro lado, documentos jurídicos, compromissos financeiros e condições contratuais continuam exigindo revisão humana.
+
+---
+
+## 8. Pós-venda
+
+A aplicação de IA não termina quando a venda é concluída.
+
+No pós-venda, modelos podem apoiar atendimento, retenção e identificação de novas oportunidades.
+
+**Aplicações identificadas:**
+
+- atendimento automatizado;
+- análise de satisfação;
+- identificação de risco de churn;
+- recomendação de novos produtos;
+- previsão de necessidades;
+- suporte ao relacionamento.
+
+No caso da HEINEKEN, o **Product Recommender** representa um exemplo de utilização de dados para apoiar recomendações de portfólio aos clientes.
+
+O papel humano continua relevante principalmente em situações de conflito, relacionamento estratégico ou problemas de maior complexidade.
+
+---
+
+## 9. Previsão e Gestão Comercial
+
+A IA também pode apoiar gestores comerciais.
+
+Entre as possibilidades identificadas estão:
+
+- previsão de vendas;
+- análise de pipeline;
+- identificação de padrões;
+- análise de conversas comerciais;
+- treinamento;
+- coaching;
+- identificação de gaps de competências;
+- acompanhamento de indicadores.
+
+Modelos generativos e preditivos podem ajudar gestores a deixar de atuar apenas como "inspetores do pipeline" e dedicar mais tempo ao desenvolvimento das equipes.
+
+---
+
+## 🧠 Síntese do Mapeamento
+
+| Papel da IA | Exemplos |
+|---|---|
+| **Automatizar** | pesquisa, atualização de informações, resumos, propostas e tarefas repetitivas |
+| **Recomendar** | leads prioritários, próxima melhor ação, preços, produtos e oportunidades |
+| **Apoiar decisões** | planejamento, previsão, negociação, coaching e gestão |
+
+Entretanto, as fontes também demonstram limites importantes.
+
+Quanto maior a necessidade de:
+
+- empatia;
+- interpretação de contexto;
+- negociação;
+- confiança;
+- julgamento;
+- responsabilização;
+
+maior continua sendo a importância da participação humana.
+
+> **O maior potencial da IA em vendas não parece estar simplesmente em substituir o vendedor, mas em transferir atividades de baixo valor para a tecnologia e ampliar a capacidade do profissional nas atividades que exigem análise, relacionamento e decisão.**
 
 ---
 
