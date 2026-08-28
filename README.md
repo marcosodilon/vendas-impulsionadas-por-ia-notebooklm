@@ -1106,35 +1106,175 @@ maior continua sendo a importância da participação humana.
 
 # 🤖 Inteligência Artificial e o Profissional de Vendas
 
-Um dos questionamentos investigados durante o projeto foi:
+Uma das perguntas centrais deste projeto foi:
 
 > **A Inteligência Artificial substituirá o profissional de vendas?**
 
-A proposta da análise não é responder à pergunta apenas com uma opinião, mas comparar evidências encontradas nas diferentes fontes.
+A análise das 12 fontes indica que a resposta mais prudente é **não de forma completa**.
 
-A investigação considera três grupos de atividades:
+A tendência observada é de transformação do papel comercial, com a IA assumindo principalmente tarefas operacionais e analíticas, enquanto o profissional concentra maior atenção em julgamento, relacionamento, negociação e tomada de decisão.
 
-### Atividades com potencial de automação
+## ⚙️ Tarefas com Alto Potencial de Automação
 
-Atividades repetitivas, operacionais e baseadas em grande volume de informações.
+As atividades com maior potencial de automação são, em geral, repetitivas, administrativas e baseadas em regras.
 
-### Atividades de colaboração humano + IA
+Entre elas:
 
-Situações nas quais a tecnologia apoia análise, preparação e tomada de decisão.
+- atualização de CRM;
+- entrada de dados;
+- pesquisa inicial de contas;
+- construção de listas;
+- qualificação de leads de menor complexidade;
+- transcrição de chamadas;
+- geração inicial de propostas;
+- agendamentos;
+- processamento de pedidos;
+- cálculo de comissões.
 
-### Atividades predominantemente humanas
+As fontes mostram que vendedores ainda dedicam uma parcela significativa do tempo a atividades que não envolvem diretamente interação comercial.
 
-Atividades que exigem competências como:
-
-- empatia;
-- negociação;
-- julgamento;
-- construção de confiança;
-- relacionamento;
-- criatividade;
-- interpretação do contexto.
+A automação dessas tarefas pode liberar tempo para atividades de maior valor.
 
 ---
+
+## 🤝 Tarefas em Modelo Híbrido: Humano + IA
+
+Diversas atividades parecem funcionar melhor em um modelo colaborativo.
+
+Exemplos:
+
+- preparação de reuniões;
+- análise de contas;
+- precificação;
+- recomendação de descontos;
+- resposta a RFPs;
+- coaching;
+- prospecção de contas estratégicas;
+- análise de pipeline;
+- recomendação de próxima melhor ação.
+
+Nesse modelo:
+
+> **A IA processa, sintetiza e recomenda. O profissional interpreta, valida e decide.**
+
+O caso da HEINEKEN com o AIDDA é um exemplo desse modelo: a ferramenta recomenda ações comerciais, mas o relacionamento e a decisão continuam com o vendedor.
+
+---
+
+## 👤 Tarefas em que Competências Humanas Predominam
+
+As fontes apresentaram forte consenso de que algumas competências continuam essencialmente humanas.
+
+Entre elas:
+
+- empatia;
+- escuta ativa;
+- negociação;
+- julgamento de contexto;
+- construção de confiança;
+- diagnóstico de problemas;
+- criatividade;
+- compreensão de aspectos culturais;
+- condução de conversas complexas.
+
+Quanto maior a complexidade da venda, maior tende a ser a relevância dessas competências.
+
+---
+
+## 📈 Impacto sobre Profissionais Iniciantes e Experientes
+
+Um dos achados mais relevantes veio do estudo **Generative AI at Work**, do NBER.
+
+O estudo encontrou aumento médio de produtividade de aproximadamente **14%** no contexto analisado.
+
+Entre trabalhadores menos experientes, o ganho foi significativamente maior, chegando a aproximadamente **34%**.
+
+Para profissionais experientes, o efeito foi muito menor.
+
+Esse resultado sugere que a IA pode funcionar como uma ferramenta de **equalização de conhecimento**, permitindo que profissionais iniciantes aprendam mais rapidamente práticas utilizadas por profissionais experientes.
+
+Entretanto, isso também significa que vendedores seniores precisarão ampliar seu diferencial em competências que não são facilmente replicáveis pela tecnologia.
+
+---
+
+## 🧠 Novas Competências do Profissional Comercial
+
+Com a evolução da IA, o vendedor precisará desenvolver novas habilidades.
+
+### 1. Clareza de intenção
+
+Saber definir corretamente:
+
+- o objetivo;
+- o problema;
+- os critérios;
+- o resultado esperado.
+
+### 2. Pensamento crítico
+
+Capacidade de questionar:
+
+- recomendações;
+- análises;
+- informações;
+- previsões produzidas pela IA.
+
+### 3. Controle de qualidade
+
+O profissional precisa validar:
+
+- dados;
+- cálculos;
+- fontes;
+- propostas;
+- informações de clientes.
+
+### 4. Construção de confiança
+
+Relacionamento e credibilidade ganham importância à medida que interações automatizadas se tornam mais comuns.
+
+### 5. Escuta ativa
+
+A tecnologia pode oferecer dados, mas compreender profundamente as necessidades do cliente continua dependendo da interação humana.
+
+---
+
+## 📊 Cinco Tarefas Mais Suscetíveis à Automação
+
+1. atualização de CRM e entrada de dados;
+2. processamento de pedidos;
+3. triagem inicial de leads;
+4. cálculos administrativos e comissões;
+5. auditorias operacionais baseadas em imagem ou dados.
+
+---
+
+## 🔄 Cinco Tarefas em Modelo Humano + IA
+
+1. resposta a propostas e RFPs;
+2. preparação de reuniões;
+3. precificação e negociação;
+4. coaching comercial;
+5. prospecção de contas estratégicas.
+
+---
+
+## 💡 Conclusão
+
+A análise das fontes não sustenta a ideia de que a IA eliminará completamente a função comercial.
+
+O que aparece com maior força é uma mudança na natureza do trabalho.
+
+O vendedor tende a deixar de ser apenas um executor de tarefas e passa a atuar cada vez mais como:
+
+- consultor;
+- negociador;
+- analista;
+- gestor de relacionamento;
+- tomador de decisão;
+- supervisor de sistemas de IA.
+
+> **A IA tende a reduzir o valor das tarefas repetitivas e aumentar o valor das competências humanas de julgamento, relacionamento e decisão.**
 
 # ⚠️ Riscos e Uso Responsável da IA
 
