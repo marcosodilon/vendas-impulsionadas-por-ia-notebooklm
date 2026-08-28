@@ -520,6 +520,40 @@ Também foi solicitado ao modelo que diferenciasse:
 - opinião;
 - resultados efetivamente medidos.
 
+## Cicatriz 05 — Divergência entre fontes
+
+### Problema identificado
+
+Durante a análise do AIDDA, diferentes respostas apresentaram números distintos sobre a quantidade de mercados em que a solução estava implementada.
+
+Uma fonte indicava **sete mercados**, enquanto outra indicava **oito companhias operacionais**.
+
+### Risco
+
+Escolher um número sem verificar o contexto poderia levar a uma informação incorreta no projeto.
+
+### Estratégia de melhoria
+
+Foi criado um novo prompt solicitando ao NotebookLM que:
+
+- consultasse prioritariamente as fontes oficiais da HEINEKEN;
+- identificasse qual fonte sustentava cada número;
+- comparasse as datas das publicações;
+- verificasse se a diferença poderia ser explicada pela expansão da solução ao longo do tempo;
+- evitasse selecionar arbitrariamente apenas um dos valores.
+
+### Resultado
+
+A análise mostrou que os números provavelmente representam **momentos diferentes do rollout do AIDDA**.
+
+Uma publicação anterior registrava sete mercados, enquanto o relatório anual posterior registrava oito companhias operacionais.
+
+### Aprendizado
+
+Essa situação demonstrou que:
+
+> **uma divergência entre fontes não deve ser corrigida por suposição; deve ser investigada considerando data, contexto e origem da informação.**
+
 ---
 # 🍺 Estudo de Caso — HEINEKEN e Inteligência Artificial
 
