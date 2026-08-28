@@ -44,24 +44,291 @@ Durante o desenvolvimento do projeto foram utilizadas:
 
 # 📚 Curadoria de Fontes
 
-Foram utilizadas **12 fontes** no NotebookLM.
+Foram utilizadas 12 fontes no NotebookLM para a construção deste caderno temático.
 
-A seleção buscou combinar diferentes perspectivas sobre Inteligência Artificial, vendas, produtividade, transformação comercial e utilização responsável da tecnologia.
+A curadoria buscou evitar uma análise baseada em uma única empresa ou perspectiva. Por isso, foram combinadas fontes empresariais, pesquisas de mercado, consultorias estratégicas, estudos acadêmicos e referências de governança.
 
-Foram priorizados materiais provenientes de:
+Essa diversidade permitiu comparar:
 
-- empresas;
-- organizações de tecnologia;
-- consultorias;
-- pesquisas;
-- instituições acadêmicas;
-- organismos de governança e referência em Inteligência Artificial.
+aplicações práticas de IA;
 
-Essa diversidade permitiu comparar perspectivas comerciais, estratégicas, acadêmicas e de governança.
+tendências de mercado;
 
-## Fontes utilizadas
+estratégias comerciais;
 
-> As 12 fontes efetivamente utilizadas no NotebookLM serão documentadas nesta seção com título, organização, URL e contribuição para o estudo.
+evidências quantitativas;
+
+benefícios de produtividade;
+
+riscos e limitações;
+
+possíveis vieses comerciais das próprias fontes.
+
+🔎 Fontes utilizadas
+
+#
+
+Fonte
+
+Organização
+
+Categoria
+
+Relevância
+
+1
+
+2026 Work Trend Index: Agents, Human Agency, and Opportunity
+
+Microsoft
+
+Dados e tendências
+
+⭐⭐⭐⭐
+
+2
+
+AI for Sales: How Artificial Intelligence is Changing the Sales Process
+
+LinkedIn
+
+Aplicação prática
+
+⭐⭐⭐⭐⭐
+
+3
+
+Brewing with Artificial Intelligence
+
+HEINEKEN
+
+Caso empresarial
+
+⭐⭐⭐⭐⭐
+
+4
+
+Generative AI at Work
+
+NBER
+
+Evidência acadêmica
+
+⭐⭐⭐⭐⭐
+
+5
+
+How Agentic AI Transforms B2B Sales Growth
+
+McKinsey
+
+Estratégia
+
+⭐⭐⭐⭐⭐
+
+6
+
+IA Generativa para Vendas
+
+IBM
+
+Estratégia / Tecnologia
+
+⭐⭐⭐
+
+7
+
+IA para Vendas na Prática
+
+HubSpot
+
+Aplicação prática
+
+⭐⭐⭐⭐
+
+8
+
+Tendências de Vendas
+
+HubSpot
+
+Dados e tendências
+
+⭐⭐⭐⭐⭐
+
+9
+
+Unlocking Gen AI in B2B Sales
+
+McKinsey
+
+Estratégia
+
+⭐⭐⭐⭐⭐
+
+10
+
+Artificial Intelligence Risk Management Framework: Generative AI Profile
+
+NIST
+
+Riscos e governança
+
+⭐⭐⭐⭐⭐
+
+11
+
+State of Sales Report – 7th Edition
+
+Salesforce
+
+Dados e tendências
+
+⭐⭐⭐⭐⭐
+
+12
+
+HEINEKEN N.V. Annual Report 2025
+
+HEINEKEN
+
+Estratégia / Caso empresarial
+
+⭐⭐⭐⭐⭐
+
+🗂️ Classificação Temática das Fontes
+
+🛠️ Aplicação Prática
+
+Fontes utilizadas para compreender como a IA pode ser aplicada diretamente ao processo comercial:
+
+LinkedIn — AI for Sales
+
+HEINEKEN — Brewing with Artificial Intelligence
+
+HubSpot — IA para Vendas na Prática
+
+Esses materiais apresentam aplicações relacionadas a prospecção, inteligência de contas, personalização, CRM, recomendações de próxima melhor ação e automação de tarefas comerciais.
+
+📊 Dados e Tendências
+
+Fontes utilizadas para compreender o nível de adoção da IA e as transformações do mercado:
+
+Microsoft — 2026 Work Trend Index
+
+HubSpot — Tendências de Vendas
+
+Salesforce — State of Sales Report
+
+Esses estudos apresentam pesquisas com profissionais e organizações, permitindo avaliar tendências como uso de agentes de IA, automação, qualidade de dados e mudanças na rotina comercial.
+
+🧠 Estratégia
+
+Fontes utilizadas para analisar transformação comercial e modelos de implementação:
+
+McKinsey — How Agentic AI Transforms B2B Sales Growth
+
+McKinsey — Unlocking Gen AI in B2B Sales
+
+IBM — IA Generativa para Vendas
+
+HEINEKEN N.V. Annual Report 2025
+
+Esses materiais apoiam a compreensão de casos de uso, transformação de processos, integração com CRM, gestão de mudança e utilização da IA em escala empresarial.
+
+🎓 Evidência Acadêmica
+
+NBER — Generative AI at Work
+
+O estudo analisou milhares de profissionais em ambiente real de trabalho e encontrou aumento médio de produtividade associado ao uso de uma ferramenta de IA generativa, com efeitos particularmente relevantes entre profissionais menos experientes.
+
+Essa fonte é importante por permitir confrontar afirmações comerciais com evidências empíricas.
+
+⚠️ Riscos e Governança
+
+NIST — Artificial Intelligence Risk Management Framework: Generative AI Profile
+
+O framework foi utilizado para analisar riscos relacionados a IA generativa, como:
+
+informações incorretas;
+
+vieses;
+
+excesso de confiança em automação;
+
+problemas de segurança;
+
+privacidade;
+
+integração de sistemas;
+
+necessidade de supervisão humana.
+
+🔬 Pensamento Crítico sobre as Fontes
+
+Um dos aprendizados do processo de curadoria foi compreender que a credibilidade de uma informação não depende apenas da qualidade aparente do conteúdo, mas também de quem o produziu e com qual objetivo.
+
+Empresas como Microsoft, Salesforce, HubSpot, IBM e LinkedIn possuem soluções comerciais relacionadas às tecnologias apresentadas em suas próprias publicações.
+
+Isso não invalida seus conteúdos, porém exige atenção.
+
+Por esse motivo, durante o projeto foram adotadas três práticas:
+
+comparar afirmações entre diferentes fontes;
+
+diferenciar evidências quantitativas de argumentos comerciais;
+
+confrontar recomendações de fornecedores com fontes acadêmicas e de governança.
+
+Essa abordagem permitiu reduzir o risco de aceitar afirmações promocionais como conclusões independentes.
+
+💡 Alguns Insights Identificados na Auditoria
+
+A análise inicial das 12 fontes revelou alguns pontos importantes para orientar o restante do estudo.
+
+IA e produtividade
+
+O estudo Generative AI at Work, do NBER, encontrou aumento médio de produtividade de aproximadamente 14% no contexto analisado.
+
+Os efeitos foram maiores entre profissionais menos experientes, indicando que a IA pode contribuir para disseminar práticas e conhecimentos utilizados pelos profissionais mais qualificados.
+
+IA e preparação organizacional
+
+A pesquisa da Microsoft indica que a adoção eficiente de IA não depende apenas da tecnologia.
+
+Cultura organizacional, capacitação e suporte gerencial aparecem como elementos relevantes para uma implementação bem-sucedida.
+
+Dados como pré-requisito
+
+O relatório da Salesforce chama atenção para um problema crítico: organizações podem investir em IA sem possuir dados suficientemente estruturados, integrados ou confiáveis.
+
+Isso reforça que:
+
+IA de qualidade depende de dados de qualidade.
+
+Aplicação prática na HEINEKEN
+
+O caso da HEINEKEN demonstra a utilização de IA no ambiente comercial por meio de soluções como o AIDDA, voltado a recomendações de next best action para representantes comerciais.
+
+A empresa também utiliza outras iniciativas relacionadas a recomendações, promoções, alocação de investimentos e inteligência comercial.
+
+IA não deve ser analisada apenas pelos benefícios
+
+A presença do framework do NIST permitiu complementar as fontes comerciais com questões relacionadas a:
+
+segurança;
+
+confiabilidade;
+
+privacidade;
+
+supervisão humana;
+
+vieses;
+
+governança.
+
+Dessa forma, o estudo busca analisar tanto o potencial comercial da IA quanto os riscos decorrentes de sua utilização.
 
 ---
 
