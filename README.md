@@ -1276,44 +1276,96 @@ O vendedor tende a deixar de ser apenas um executor de tarefas e passa a atuar c
 
 > **A IA tende a reduzir o valor das tarefas repetitivas e aumentar o valor das competências humanas de julgamento, relacionamento e decisão.**
 
-# ⚠️ Riscos e Uso Responsável da IA
+# ⚠️ Riscos, Governança e Uso Responsável da IA
 
-A utilização de Inteligência Artificial também apresenta riscos que precisam ser considerados.
+A análise das fontes demonstrou que os benefícios da Inteligência Artificial precisam ser acompanhados por mecanismos de governança, segurança e supervisão humana.
 
-Entre os pontos analisados estão:
+O framework **NIST AI Risk Management Framework** foi utilizado como principal referência para essa análise.
 
-- informações incorretas;
-- alucinações de modelos;
-- privacidade;
-- utilização de dados de clientes;
-- segurança;
-- vieses;
-- falta de transparência;
-- excesso de automação;
-- perda de personalização;
-- qualidade dos dados;
-- dependência excessiva da tecnologia.
+## Principais Riscos Identificados
 
-Um princípio importante identificado durante o estudo é que a IA deve funcionar como **ferramenta de apoio ao profissional**, mantendo supervisão humana sobre decisões relevantes.
+| Risco | Probabilidade | Impacto | Exemplo Comercial |
+|---|---|---|---|
+| Confabulações e alucinações | Alta | Alto | IA inventar dados em propostas ou RFPs |
+| Qualidade inadequada dos dados | Alta | Alto | CRM incorreto gerar recomendações ruins |
+| Privacidade | Média-Alta | Alto | Uso indevido de informações de clientes |
+| Segurança cibernética | Média | Alto | Prompt injection ou ataque a agentes |
+| Viés algorítmico | Média | Médio | Lead scoring desfavorecer determinados perfis |
+| Automation Bias | Alta | Alto | Vendedor aceitar recomendação sem questionar |
+| Vazamento de dados | Média | Alto | Informação confidencial inserida em IA pública |
+| Dependência tecnológica | Alta | Médio | Dependência excessiva de um único sistema |
+| Indisponibilidade | Baixa-Média | Alto | CRM ou agente indisponível durante vendas |
+| Perda do contexto humano | Alta | Alto | Automação prejudicar relacionamento |
+| Excesso de automação | Média-Alta | Médio | Cliente receber contatos repetitivos |
+| Falta de accountability | Média | Alto | Não saber quem responde por decisão da IA |
+
+## 🛡️ 7 Princípios de Uso Responsável
+
+1. **Human-in-the-loop:** decisões relevantes devem manter supervisão humana.
+2. **Veracidade:** informações produzidas por IA precisam ser verificáveis.
+3. **Qualidade dos dados:** modelos não devem operar sobre dados desorganizados ou pouco confiáveis.
+4. **Transparência:** deve existir clareza sobre quando e como a IA está sendo utilizada.
+5. **Privacidade por design:** dados comerciais e pessoais devem ser protegidos desde a concepção do processo.
+6. **Resiliência:** operações críticas precisam possuir alternativas em caso de indisponibilidade tecnológica.
+7. **Equidade:** modelos de recomendação e scoring devem ser monitorados para evitar vieses prejudiciais.
+
+## 🔐 Cinco Controles Mínimos
+
+- filtros de entrada e saída de dados;
+- inventário das ferramentas de IA utilizadas;
+- possibilidade de desativação de sistemas em caso de comportamento anormal;
+- testes periódicos de segurança e vulnerabilidade;
+- registro das situações em que profissionais humanos alteram ou rejeitam recomendações da IA.
+
+## Human-in-the-Loop
+
+Um dos conceitos mais importantes encontrados no estudo foi **human-in-the-loop**.
+
+A Inteligência Artificial pode:
+
+- processar dados;
+- gerar recomendações;
+- identificar padrões;
+- produzir rascunhos.
+
+Entretanto, decisões que envolvem clientes, contratos, preços, descontos, informações confidenciais ou impacto financeiro relevante devem preservar a possibilidade de intervenção e validação humana.
+
+> **Governança de IA não significa impedir a inovação. Significa criar condições para utilizar a tecnologia com segurança, responsabilidade e controle.**
 
 ---
 
 # 📊 Indicadores de Desempenho
 
-Também foram investigados indicadores capazes de avaliar se a utilização da Inteligência Artificial realmente melhora uma operação comercial.
+A adoção de Inteligência Artificial em vendas precisa ser acompanhada por indicadores capazes de demonstrar se a tecnologia realmente gera valor.
 
-Os indicadores foram organizados nas seguintes categorias:
+A análise resultou em um painel com dez KPIs prioritários.
 
-- produtividade;
-- geração de oportunidades;
-- conversão;
-- receita;
-- relacionamento;
-- experiência do cliente;
-- eficiência operacional;
-- qualidade da utilização da IA.
+| KPI | O que mede |
+|---|---|
+| **Uplift de Lucro Bruto Promocional** | impacto das recomendações e simulações sobre margem |
+| **Faturamento Incremental por Vendedor** | evolução da receita após adoção das soluções |
+| **Tempo Comercial Resgatado** | horas administrativas devolvidas ao profissional |
+| **AI-Touched Win Rate** | conversão de oportunidades apoiadas por IA |
+| **Velocidade de Ramp-up** | tempo necessário para novos vendedores atingirem produtividade |
+| **Taxa de Aceitação das Recomendações** | nível real de utilização da IA pelo time |
+| **CRM Completeness Rate** | qualidade e completude dos dados comerciais |
+| **Whitespace Pipeline Value** | valor das novas oportunidades identificadas |
+| **Human Override Rate** | frequência de alterações humanas nas recomendações da IA |
+| **NPS dos Canais Digitais** | experiência dos clientes nas jornadas digitais |
 
-> O framework completo de indicadores será incluído após a consolidação da análise realizada no NotebookLM.
+## Métricas de Fonte x Métricas Propostas
+
+Durante o estudo foi feita uma distinção entre:
+
+**Métricas explicitamente apresentadas pelas fontes**, como ganhos de produtividade, ROI, margem e tempo de onboarding;
+
+e
+
+**Métricas propostas a partir da análise**, como CRM Completeness Rate, Human Override Rate e Tempo Comercial Resgatado.
+
+Essa diferenciação é importante para não apresentar uma recomendação analítica como se fosse um resultado comprovado por uma pesquisa.
+
+> **O melhor indicador de IA não é quantas vezes a tecnologia foi utilizada, mas quanto valor ela ajudou a criar com qualidade, segurança e sustentabilidade.**
 
 ---
 
@@ -1321,75 +1373,215 @@ Os indicadores foram organizados nas seguintes categorias:
 
 ## IA Aplicada a Vendas
 
-A Inteligência Artificial pode apoiar equipes comerciais na análise de grandes volumes de informações, automação de determinadas atividades, personalização de interações e apoio à tomada de decisão.
+A Inteligência Artificial aplicada a vendas reúne modelos analíticos, aprendizado de máquina, processamento de linguagem natural e automação para apoiar decisões e atividades do processo comercial.
 
-Entretanto, a utilização eficiente da tecnologia depende não apenas da ferramenta utilizada, mas também da qualidade dos dados, das instruções fornecidas e da capacidade do profissional de interpretar criticamente os resultados.
+Seu principal potencial está em combinar:
 
-Ao longo deste projeto foram estudados temas relacionados a:
+**dados + automação + recomendação + julgamento humano.**
 
-- IA generativa;
-- automação comercial;
-- análise de dados;
-- personalização;
-- CRM;
-- prospecção;
-- previsão;
-- produtividade;
+## Onde a IA pode atuar
+
+Ao longo do processo comercial, a IA pode apoiar:
+
+### Planejamento
+Simulação de cenários, análise de territórios, investimentos e oportunidades.
+
+### Prospecção
+Identificação de leads, sinais de intenção e oportunidades de mercado.
+
+### Qualificação
+Lead scoring, enriquecimento de dados e priorização de oportunidades.
+
+### Preparação
+Pesquisa de contas, resumo de informações e preparação de reuniões.
+
+### Relacionamento
+Personalização de mensagens e recomendação de próxima melhor ação.
+
+### Negociação
+Análise de preço, margem, descontos e históricos comerciais.
+
+### Fechamento
+Apoio à criação de propostas, RFPs e documentação.
+
+### Pós-venda
+Atendimento, recomendação de produtos, retenção e identificação de churn.
+
+### Gestão
+Forecasting, coaching, análise de pipeline e desenvolvimento das equipes.
+
+---
+
+## IA Generativa
+
+A IA Generativa possui especial capacidade para trabalhar com conteúdos não estruturados, como:
+
+- textos;
+- documentos;
+- propostas;
+- anotações;
+- transcrições;
+- relatórios.
+
+Entre suas aplicações comerciais estão geração de rascunhos, preparação de reuniões, síntese de documentos e apoio à comunicação.
+
+Porém, modelos generativos podem produzir informações incorretas.
+
+Por isso:
+
+> **Gerar é diferente de validar.**
+
+---
+
+## IA Agêntica
+
+Agentes de IA representam uma evolução dos copilotos tradicionais.
+
+Enquanto um copiloto normalmente responde a uma solicitação, um agente pode executar uma sequência de tarefas utilizando diferentes sistemas.
+
+Um agente comercial pode, por exemplo:
+
+1. identificar um lead;
+2. pesquisar informações;
+3. atualizar o CRM;
+4. preparar uma abordagem;
+5. iniciar o contato;
+6. acompanhar a resposta;
+7. agendar uma reunião.
+
+Essa autonomia aumenta a necessidade de governança e monitoramento.
+
+---
+
+## Produtividade
+
+O estudo do NBER utilizado no projeto encontrou aumento médio de produtividade de aproximadamente **14%** no contexto analisado.
+
+Entre profissionais menos experientes, os ganhos foram significativamente maiores.
+
+Isso sugere que a IA pode contribuir para acelerar aprendizado e disseminar boas práticas.
+
+---
+
+## Papel do Vendedor
+
+O profissional comercial tende a dedicar menos tempo a atividades repetitivas e maior atenção a:
+
 - relacionamento;
-- agentes de IA;
-- governança;
-- colaboração humano + IA.
+- julgamento;
+- negociação;
+- diagnóstico;
+- tomada de decisão;
+- criação de valor.
 
-O conteúdo completo deste miniguia será consolidado utilizando os resultados obtidos durante as análises realizadas no NotebookLM.
+O novo profissional comercial precisa saber não apenas utilizar IA, mas também **questionar, validar e direcionar a tecnologia**.
 
+---
+
+## Boas Práticas
+
+1. comece pelo problema de negócio, e não pela ferramenta;
+2. organize os dados antes de escalar IA;
+3. mantenha o vendedor no centro do desenho da solução;
+4. diferencie tarefas que podem ser automatizadas das que exigem julgamento;
+5. invista em treinamento e gestão da mudança;
+6. valide informações importantes;
+7. monitore resultados e riscos continuamente.
+
+---
+
+## Resumo em 10 Pontos
+
+1. IA deve automatizar tarefas, e não simplesmente substituir pessoas.
+2. Dados estruturados são fundamentais para bons resultados.
+3. IA pode aumentar produtividade.
+4. Profissionais iniciantes podem obter ganhos especialmente relevantes.
+5. CRM é uma importante base para inteligência comercial.
+6. IA generativa exige validação.
+7. IA pode apoiar prospecção e priorização de oportunidades.
+8. Modelos de pricing podem ajudar a proteger margem.
+9. Aplicações precisam respeitar particularidades do mercado.
+10. O melhor modelo tende a ser **humano + IA**, e não humano versus IA.
 ---
 
 # 📚 Glossário
 
-O projeto também contempla a construção de um glossário com os principais conceitos encontrados durante o estudo.
-
-Entre os conceitos que poderão fazer parte do glossário estão:
-
-- Inteligência Artificial;
-- IA Generativa;
-- Machine Learning;
-- LLM;
-- IA Preditiva;
-- IA Agêntica;
-- CRM;
-- Lead;
-- Lead Scoring;
-- Pipeline;
-- Next Best Action;
-- Personalização;
-- Automação;
-- ROI;
-- Human-in-the-loop;
-- Governança de IA.
-
-> A versão final será construída com base nos conceitos efetivamente identificados nas 12 fontes utilizadas no NotebookLM.
+| Conceito | Definição resumida |
+|---|---|
+| **Agentic AI** | IA capaz de planejar e executar tarefas de forma mais autônoma |
+| **Agent Intensity** | medida da complexidade da atuação de um agente |
+| **Agent Teammate** | agente de IA atuando como participante de um fluxo de trabalho |
+| **Next Best Action** | recomendação da próxima ação mais adequada |
+| **Next-Best Opportunity** | identificação das oportunidades com maior potencial |
+| **Whitespace Engine** | mecanismo para encontrar mercados ou contas ainda não explorados |
+| **Customer 360** | visão integrada das informações de um cliente |
+| **Account IQ** | inteligência sintetizada sobre determinada conta |
+| **Intent Signals** | sinais que indicam possível intenção de compra |
+| **Business-Led Roadmap** | adoção tecnológica orientada primeiro por problemas de negócio |
+| **Change Management** | gestão das mudanças de processos, cultura e comportamento |
+| **Skills Equalization** | redução da diferença de desempenho entre níveis de experiência |
+| **Smart CRM** | CRM integrado a automação, análise e IA |
+| **Confabulação** | geração de informações falsas ou não sustentadas pela IA |
+| **Automation Bias** | confiança excessiva nas recomendações produzidas por sistemas |
+| **Algorithmic Monoculture** | utilização excessiva dos mesmos modelos e padrões |
+| **Loop Marketing** | abordagem contínua que conecta relacionamento e crescimento |
+| **Orchestration Depth** | complexidade das ações executadas por um agente |
+| **Promo Advisor** | solução HEINEKEN para análise e otimização promocional |
+| **Allocation AI** | solução analítica para otimização da alocação de investimentos |
 
 ---
 
 # ♻️ Prompts Reutilizáveis
 
-Ao final do projeto será disponibilizado um conjunto de prompts reutilizáveis para apoiar novas análises e estudos.
+Durante o projeto foram desenvolvidos prompts que podem ser reutilizados em outros estudos e contextos comerciais.
 
-Os prompts serão organizados em categorias como:
+## 1. Resumo
 
-- resumo;
-- comparação;
-- identificação de oportunidades;
-- análise crítica;
-- análise de riscos;
-- preparação comercial;
-- prospecção;
-- personalização;
-- tratamento de objeções;
-- estudo de caso;
-- plano de ação;
-- revisão de aprendizagem.
+> Analise as fontes fornecidas e produza um resumo executivo contendo tese central, cinco conceitos principais e todos os dados quantitativos encontrados. Não utilize conhecimento externo.
 
+## 2. Comparação
+
+> Compare as fontes [A] e [B]. Identifique consensos, divergências, evidências quantitativas e possíveis vieses de quem publicou cada material.
+
+## 3. Identificação de Oportunidades
+
+> Analise o processo comercial apresentado nas fontes e identifique cinco atividades com maior potencial de melhoria por meio de Inteligência Artificial. Para cada uma, apresente problema, solução, benefício, KPI e risco.
+
+## 4. Análise de Riscos
+
+> Analise os riscos da utilização da solução [X] considerando privacidade, segurança, alucinações, automation bias, dados e supervisão humana. Baseie as conclusões somente nas fontes fornecidas.
+
+## 5. Preparação de Reunião
+
+> Com base nas informações disponíveis sobre [cliente], crie uma preparação Account 360 contendo contexto, possíveis prioridades, stakeholders, perguntas de diagnóstico e pontos que precisam ser verificados antes da reunião.
+
+## 6. Prospecção
+
+> Analise os dados disponíveis sobre [prospect] e identifique sinais reais de intenção. Depois crie uma sequência curta de prospecção adequada aos canais relevantes para esse mercado.
+
+## 7. Personalização
+
+> Reescreva a mensagem comercial considerando o cargo, contexto, prioridades e possíveis dores do cliente. Evite linguagem genérica e afirmações que não estejam sustentadas pelas fontes.
+
+## 8. Diagnóstico de CRM
+
+> Analise a qualidade dos dados apresentados e identifique duplicidades, informações ausentes, inconsistências e riscos para utilização de modelos preditivos.
+
+## 9. Tratamento de Objeções
+
+> Diante da objeção “[objeção]”, desenvolva uma resposta consultiva contendo validação da preocupação, reenquadramento de valor e uma pergunta aberta para aprofundar o diagnóstico.
+
+## 10. Estudo de Caso
+
+> Analise o caso da empresa [empresa] e identifique problema inicial, infraestrutura necessária, aplicação da IA, resultados quantitativos, riscos, fatores de sucesso e aprendizados transferíveis.
+
+## 11. Plano de Ação
+
+> Transforme as recomendações das fontes em um roadmap dividido entre curto, médio e longo prazo, definindo responsáveis, indicadores, riscos e mecanismos de governança.
+
+## 12. Simulação para Aprendizado
+
+> Atue como um comprador exigente no contexto descrito pelas fontes. Faça uma objeção por vez e aguarde minha resposta. Depois avalie minha argumentação considerando escuta ativa, clareza, evidências e criação de valor.
 ---
 
 # 💡 Principais Aprendizados
@@ -1411,12 +1603,39 @@ Entre os principais aprendizados proporcionados pelo projeto estão:
 
 # 🏁 Conclusão
 
-O desenvolvimento deste projeto permitiu explorar a Inteligência Artificial não apenas como ferramenta de geração de respostas, mas como instrumento de pesquisa, análise e aprendizagem.
+Este projeto permitiu analisar a Inteligência Artificial aplicada a vendas não apenas como tecnologia de automação, mas como uma ferramenta de apoio à aprendizagem, análise e tomada de decisão.
 
-O uso do NotebookLM possibilitou combinar diferentes fontes, comparar perspectivas e testar estratégias de engenharia de prompts.
+A utilização de 12 fontes diferentes mostrou que existe forte potencial de aplicação da IA em praticamente toda a jornada comercial, desde planejamento e prospecção até negociação, pós-venda e gestão.
 
-Além do conhecimento sobre IA aplicada a vendas, o projeto reforçou a importância do pensamento crítico, da validação das informações e da utilização responsável da Inteligência Artificial.
+Entretanto, o estudo também demonstrou que adoção tecnológica não significa automaticamente geração de valor.
 
+Os resultados dependem de fatores como:
+
+- qualidade dos dados;
+- integração dos sistemas;
+- capacitação dos profissionais;
+- desenho adequado dos processos;
+- governança;
+- supervisão humana.
+
+O estudo de caso da HEINEKEN reforçou essa visão ao demonstrar aplicações de IA integradas a uma estrutura mais ampla de transformação digital.
+
+Além dos conhecimentos relacionados à área comercial, o projeto também permitiu desenvolver competências de:
+
+- curadoria de fontes;
+- engenharia de prompts;
+- análise crítica;
+- identificação de vieses;
+- validação de informações;
+- documentação técnica.
+
+Uma das principais conclusões do estudo pode ser resumida da seguinte maneira:
+
+> **O maior valor da Inteligência Artificial em vendas não está em substituir o profissional, mas em ampliar sua capacidade de analisar, decidir e criar valor para o cliente.**
+
+A combinação mais promissora encontrada ao longo das fontes foi:
+
+> **dados confiáveis + IA + processos bem definidos + profissionais capacitados + supervisão humana.**
 ---
 
 ## 🎓 Desafio de Projeto
